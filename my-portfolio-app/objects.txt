@@ -1,0 +1,37 @@
+6aa1257b51517d6912bcba0f9b1fd862e1c4cd7b
+710aa87d67b8e5db3779e1e9a9e438f4931f6e95
+2020684bb7feb75a6500d9911a43f0c82a2cdf9f 
+5b808ef473194697401e7c9dee4d58cd22ccee7c 
+3f537ce52935fe7625d1dd98a0760a59f606688f README.md
+6f73174a902f3bc663ea089377692d2385799154 my-portfolio-app
+4d29575de80483b005c29bfcac5061cd2f45313e my-portfolio-app/.gitignore
+58beeaccd87e230076cab531b8f418f40b6d1aeb my-portfolio-app/README.md
+affb696faad0b98cd2963d836da1d5ceffb5330d my-portfolio-app/package-lock.json
+67147e3c14bdd123f868da5d8f8b07679378ae5f my-portfolio-app/package.json
+89b6614ad95bce3da5a348a58bb72f6e3f8c2ccc my-portfolio-app/public
+480b0a2fe5d94e315d43339e3820500ad4597f9a my-portfolio-app/public/android-chrome-192x192.png
+a11777cc471a4344702741ab1c8a588998b1311a my-portfolio-app/public/favicon.ico
+2f28c4ddfe30df5d78eb4ad2f7a1879b17f276b1 my-portfolio-app/public/index.html
+ec749cbee292cbbcb0988d2733a1bcf9b9882827 my-portfolio-app/public/manifest.json
+e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e my-portfolio-app/public/robots.txt
+d9456e580386ba697ec94841a00985b1249efd96 my-portfolio-app/src
+74b5e053450a48a6bdb4d71aad648e7af821975c my-portfolio-app/src/App.css
+6b04e66f5f71fd84ef22c91c04be3cd2ec0a2901 my-portfolio-app/src/App.js
+1f03afeece5ac28064fa3c73a29215037465f789 my-portfolio-app/src/App.test.js
+0f6cc7b69d876b0241346d38c3316221bf1a8dfe my-portfolio-app/src/components
+2a62d0bcb963c966ab207e10da433fbdc2b78ec5 my-portfolio-app/src/components/About.js
+694be0a629d006c65559d5eee3040e1fa4517a0b my-portfolio-app/src/components/Contact.js
+d2451c2473850d76d7e10e4c819a4d054dbcd06d my-portfolio-app/src/components/Footer.js
+8fe82447cb806e4ee9f52c0242521d7a8cd28313 my-portfolio-app/src/components/NavBar.js
+6b3f6a9a51b0121cd04c2ad4a189e44692f62f5c my-portfolio-app/src/components/Projects.js
+f1a1bcabdd4dfca0f90d6dba0677622ec0000a73 my-portfolio-app/src/images
+b37a1807ed2cb0f74de89151641504846bbad0b8 my-portfolio-app/src/images/craapp.png
+4ba9545350773979b582efbe821b6b6159a4bc37 my-portfolio-app/src/images/eCom.png
+7b44118c0a5eb52173ade94ee8f5fc2038357805 my-portfolio-app/src/images/holiDaze.png
+3733dcdd93ba0c2a64780845e3d1ac7f254ccd8c my-portfolio-app/src/images/picture-portfolio.jpg
+4a1df4db71cdb32ede8a8f6cf33da4539cbf0920 my-portfolio-app/src/index.css
+dc9ef0a5fbfbf3e0c736577a2550657e8026d135 my-portfolio-app/src/index.js
+990724998a5929b152097e0c53b2bf8ecebb85b2 my-portfolio-app/src/index.scss
+9dfc1c058cebbef8b891c5062be6f31033d7d186 my-portfolio-app/src/logo.svg
+5253d3ad9e6be6690549cb255f5952337b02401d my-portfolio-app/src/reportWebVitals.js
+8f2609b7b3e0e3897ab3bcaad13caf6876e48699 my-portfolio-app/src/setupTests.js
