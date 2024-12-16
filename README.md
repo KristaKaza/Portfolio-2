@@ -19,4 +19,4 @@ Instructions
 
 
 ### Running
-https://stellar-semolina-abdeca.netlify.app/
+https://portfolio-2kk.netlify.app/
